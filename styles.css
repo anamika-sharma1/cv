@@ -1,0 +1,42 @@
+
+
+.main_table{
+  border: 3px;
+  border-style : solid;
+  background-color: #f6fcfc;
+  border-color: #226a66;
+
+}
+.Anamika_Photo{
+  border: 1px;
+  border-color: black;
+  border-radius: 50%;
+  border-style: solid;
+}
+
+.to_add_padding{
+  border-spacing: 50px 0 0 0;
+}
+
+.about{
+  position: absolute;
+  top: 70px;
+  bottom: 0px;
+  left: auto;
+  right: 100px;
+}
+
+li{
+  list-style-type: circle;
+  line-height: 1.4em;
+
+}
+
+h1{
+  font-family: Merriweather,serif;
+  color: #226a66;
+}
+
+p{
+  line-height: 1.4em;
+}
